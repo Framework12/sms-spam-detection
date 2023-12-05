@@ -50,7 +50,7 @@ You can install these dependencies using the provided `requirements.txt` file.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/sms-spam-detection.git
+   https://github.com/Framework12/sms-spam-detection.git
 
 ## Navigate to the project directory:
 cd sms-spam-detection
